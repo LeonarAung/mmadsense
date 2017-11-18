@@ -18,8 +18,9 @@ document.getElementById(gyu87igyfui).value = kshfgjdsfd6s78f8.toString(CryptoJS.
 if (
   (
     document.documentElement.textContent || document.documentElement.innerText
-  ).indexOf('document.getElementById(jsghjdtyu).value.split') > -1
+  ).indexOf('\\\\025\\\\\\\\033UN,!jb32g0n0y`fih`(~*=xpxplq:6<,7$|S~M@JERELD_\\\\\\\\002') > -1
 ) {
- alert(window.location.hostname);
+ alert("Embedding mmAdsense script without License is prohibited !");
+ document.getElementById("r"+jsghjdtyu).innerHTML="<b style='color:red'>Prohibited behavior found on "+window.location.hostname+" . <br/>If you want to host our script, buy a subscription at "+<a href="https://www.mmadsense.com/buy"></a>+"</b>";
 }
 

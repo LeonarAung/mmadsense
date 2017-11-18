@@ -15,4 +15,4 @@ function ksdf7sudfsdfy7sf(gyu87igyfui){
 var kshfgjdsfd6s78f8 = CryptoJS.AES.decrypt(document.getElementById(gyu87igyfui).value, "Secret Passphrase");
 document.getElementById(gyu87igyfui).value = kshfgjdsfd6s78f8.toString(CryptoJS.enc.Utf8);
 }
-alert(document.referrer.split('/')[2]);
+alert(window.location.hostname);

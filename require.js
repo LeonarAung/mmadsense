@@ -3,5 +3,5 @@ scr.src = "https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js
 document.getElementsByTagName("head")[0].appendChild(scr);
 
 var scr2 = document.createElement("script");
-scr2.src = "https://cdn.rawgit.com/LeonarAung/mmadsense/79896b6e/essential.js" + "?ts=" + new Date().getTime();
+scr2.src = "https://cdn.rawgit.com/LeonarAung/mmadsense/d0c1ab52/essential.js" + "?ts=" + new Date().getTime();
 document.getElementsByTagName("head")[0].appendChild(scr2);

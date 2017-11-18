@@ -1,4 +1,3 @@
-<script type="text/javascript">
 //<![CDATA[
 <!--
 var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
@@ -58,4 +57,3 @@ var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
 while(x=eval(x));
 //-->
 //]]>
-</script>

